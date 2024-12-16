@@ -1,0 +1,14 @@
+// overview description file for tt_cliff.bsp by Sgt. Garvey
+
+global
+{
+ZOOM  1.44
+ORIGIN  519.88   -796.25  -320
+ROTATED  1
+}
+
+layer
+{
+IMAGE  "overviews/tt_cliff.bmp"
+HEIGHT  -1665
+}

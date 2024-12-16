@@ -1,0 +1,14 @@
+// overview description file for tt_0815.bsp by -Hawk-
+
+global
+{
+ZOOM  .90
+ORIGIN  -32   0  -104
+ROTATED  0
+}
+
+layer
+{
+IMAGE  "overviews/tt_0815.bmp"
+HEIGHT  -849
+}

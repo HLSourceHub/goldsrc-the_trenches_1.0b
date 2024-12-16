@@ -1,0 +1,14 @@
+// overview description file for tt_trapped.bsp by the_Leprechaun
+ 
+global
+{
+ZOOM  1.68
+ORIGIN  256   256  196
+ROTATED  0
+}
+ 
+layer
+{
+IMAGE  "overviews/tt_trapped.bmp"
+HEIGHT  -121
+}

@@ -1,0 +1,22 @@
+"particles" "100"
+"maintype" "galaxy"
+
+{
+  "name" "galaxy"
+  "spraytype" "smoke"
+  "sprayrate" "10"
+}
+
+{
+  "name" "layer"
+  "gravity" "0"
+  "sprite" "sprites/ballsmoke.spr"
+  "startalpha" "0.2"
+  "endalpha" "8"
+  "lifetime" "3"
+  "startsize" "119"
+  "endsize" "120"
+  "startangle" "0"
+  "angledelta" "9..-9"
+  "rendertype" "additive"
+}

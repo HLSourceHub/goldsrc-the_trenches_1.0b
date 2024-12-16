@@ -1,0 +1,5 @@
+4
+crosshair		320 rifle_crosshair	0	0	63	63
+autoaim			320 rifle_crosshair	0	0	63	63
+crosshair		640 rifle_crosshair	0	0	63	63
+autoaim			640 rifle_crosshair	0	0	63	63

@@ -1,0 +1,139 @@
+// Half-Life Texture Types.  Modify this file only if texture names are changed!
+//  'M' metal, 'V' ventillation, 'D' dirt, 'S' slosh liquid 
+//  'T' tile, 'G' grate (Concrete is the default), 'W' wood, 'P' computer, 'Y' glass, 'B' snow, 'X' sand, 'U' Null, 'Z' grass
+// NOTE: only the first 12 characters of the texture name are used
+// NOTE: a maximum of 512 textures may be tagged in this file
+
+
+// The Trenches Beta 1
+
+// Null
+u clip
+
+// Wood
+W wood
+W wood_old
+W wood01
+W wood02
+W wood03
+W wood04
+W wood05
+W wood06
+W woodfloor
+W 3dmwood1
+W 3dmwood2
+W 3dmcrate1
+W 3dmcrate2
+W 3dmcrate3
+W 3dmcrate4
+W 3dmcrate5
+W 3dmcrate6
+W crate09
+W crate09b
+W crate09c
+W pamlbark1
+W tree
+W treeb
+W bamboo
+W bridge
+W r_wood
+W blawood02
+W kl_wood43
+
+// Sand
+X sand
+
+// Dirt
+
+D dirt01
+D dirt02
+D dirt03
+D dirt04
+D crm_grn
+D mud001
+D kl_fuxmuds1
+
+// Water
+S waterbluelight
+S C2A5
+S c2a53
+S c2a54
+S c2a542
+S 3dmriver
+
+//Metal
+M barrel1
+M barrel2
+M barrel_wrng
+
+//Tiles
+T tiles
+T tilesholes
+
+// Grass
+Z mz_grass_01
+Z mz_grass_oo
+Z mz_grassy_1
+Z mz_grassy_2
+Z kl_grass_evil1
+Z abs_grass
+Z grass02
+Z kl_fuxmuds5
+
+// tt_trenches
+D sgt_dirt1
+D sgt_dirt2
+D sgt_dirtblend
+D sgt_dirthole1
+D sgt_dirthole2
+D sgt_dirthole3
+D sgt_dirthole4
+D sgt_grassdirt
+
+// tp_swamp unique
+s !kl_fuxmuds1
+s !ouitz_water3
+
+// tt_attack unique
+D kl_fuxtransitio
+D kl_fuxcratetran
+D kl_fuxcrate
+z kl_evilfux
+
+// tt_0815 unique
+w K_trenchwood1
+w K_wood10
+w K_wood7b
+w K2x_wood
+D K_dirt3
+m GENERIC98A
+m GENERIC98C
+m GENERIC98D
+D tel-dirt01
+m xcrate10c
+m xcrate10a
+W K_door21
+w crate02a
+w crate06a
+w KX_crate1b2
+w KX_crate2b2
+t m_sexyroof_1
+w m_sexyroof_4
+
+// azn
+D blending
+D kl_fuxmuds4
+D kl_grassroadc
+w M_ZWOODY1
+W MELE
+w kl_wud2
+w cr_matwood
+w kwc_trench2
+x cr_matsand
+x blend5
+
+// garvey
+W wood_odd
+W tt_woodness
+
+D kl_faketexture

@@ -1,0 +1,11 @@
+
+
+
+-------------
+
+Weapon: Melee
+Grenades: 6
+Equipment: Gas Mask
+Speed: Medium
+Stamina: Medium
+Limit: Server defined

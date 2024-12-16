@@ -1,0 +1,12 @@
+game "The Trenches Beta 1.0b"
+url_info "http://www.thetrenches.net"
+url_dl "http://www.thetrenches.net"		
+version "1.0b" 				// version of mod
+size "127mb" 				// size of mod (in bytes)
+svonly "0" 					// server side only mod? (1=yes 0=no)
+cldll "1" 					// client side dll? (1=yes =no)
+type "multiplayer_only" 		// type of mod
+nomodels "1" 				// game selects player model (1=yes 0=no)
+mpentity "info_player_observer"	// name of multiplayer spawn entity
+gamedll "dlls\tt.dll" 			// file and location of dll
+gamedll_linux "dlls/tt_i386.so"

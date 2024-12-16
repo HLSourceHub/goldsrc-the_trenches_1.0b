@@ -1,0 +1,28 @@
+0815(Trench Capture)
+
+By Hawk (sesselschoner@web.de)
+
+
+A small slice of Western Front combat. The remnants 
+of a once pristine village lies in the center of no man's land; 
+most of the village has been decimated to their foundations. 
+Two large hills help to shelter the main trench lines, which are 
+very long and elaborate. Sandbag bunkers and observation posts 
+may be worth keeping a guard in to observe enemy movement. 
+Can you rally your forces to capture the enemy's trench? 
+Be careful, as an attack may prompt a strong response 
+by nearby reinforcements
+
+-----------------------------------------
+
+Models by flomatc and the dod Team
+Textures by Dod Team, TT Team and even me 
+Sounds by TT Team
+The Fokker DVII Model by func_tank 
+Thanks to func_tank for the great support
+
+-----------------------------------------
+
+visit:
+www.thetrechnes.de (german)
+www.thetrenches.net (english)

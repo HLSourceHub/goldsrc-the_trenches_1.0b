@@ -1,0 +1,14 @@
+// overview description file for tt_attack.bsp by the_Leprechaun
+
+global
+{
+ZOOM  1.47
+ORIGIN  256   152 -286.50
+ROTATED  1
+}
+
+layer
+{
+IMAGE  "overviews/tt_attack.bmp"
+HEIGHT  -1070
+}

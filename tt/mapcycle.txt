@@ -1,0 +1,7 @@
+tp_lost
+tt_hill
+tt_trapped
+tt_attack
+tp_zorn
+tt_0815
+tt_cliff

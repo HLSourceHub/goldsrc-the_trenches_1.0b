@@ -1,0 +1,27 @@
+a:link {
+       font-family:Verdana;
+       font-size: 10pt;
+       color: #000000;
+       text-decoration: none;       
+       }
+       
+a:visited {
+       font-family:Verdana;
+       font-size: 10pt;
+       color: #000000;
+       text-decoration: none;       
+       }
+
+a:active {
+       font-family:Verdana;
+       font-size: 10pt;
+       color: #000000;
+       text-decoration: none;       
+       }
+       
+a:hover {
+       font-family:Verdana;
+       font-size: 10pt;
+       color: #000000;
+       text-decoration: underline;       
+       }

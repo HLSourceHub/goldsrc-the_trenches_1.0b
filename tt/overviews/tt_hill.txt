@@ -1,0 +1,14 @@
+// overview description file for tt_hill.bsp by azncoolteen
+
+global
+{
+ZOOM  1.23
+ORIGIN  -4   -304  160
+ROTATED  0
+}
+
+layer
+{
+IMAGE  "overviews/tt_hill.bmp"
+HEIGHT  -193
+}

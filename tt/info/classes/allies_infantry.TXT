@@ -1,0 +1,11 @@
+
+
+
+-------------
+
+Weapon: Rifle
+Grenades: 1
+Equipment: Gas Mask
+Speed: Fast
+Stamina: Medium
+Limit: Unlimited

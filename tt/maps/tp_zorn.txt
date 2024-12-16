@@ -1,0 +1,43 @@
+Zorn (Push)
+
+By Morphew ( ich@morphew.de )
+
+A quaint town about fifty miles from the coastline,
+the small, unnamed French village of Zorn has little
+tactical importance. The town is primarily used by
+the Allies, which control the port, as an area of
+resupply.
+Battle wearied troops are also diverted here to engage
+in more menial tasks until they are ready to return to
+combat. The Germans have occupied the railway that
+used to run through the village, and have camped about
+twenty miles away from the area. The night before
+fighting began, the Germans dispatched around 120 troops
+to raid the Allied area and to disrupt supplies.
+The British themselves lacked a secure position as,
+two nights previous, much of their force was diverted
+to reinforce the Salient. After a light artillery
+bombardment, both the Allies and Germans have set up
+impromptu trenches and much of the town's population
+remains locked indoors or has evacuated.
+
+Objectives:
+
+Allied forces: 
+You have to fight the evil central powers
+back to hell and take control of the 5 flags.
+
+Central Powers:
+When you control all five flags you control
+the whole area. This achieves the best
+strategic position in our war. Go for victory!
+
+Credits:
+
+Textures: kleinluka, and the great Valve Team.
+
+Models: flomatic and DoD Team
+
+Sprites: DoD-Team, and myself.
+
+www.thetrenches.net

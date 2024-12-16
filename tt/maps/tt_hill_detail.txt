@@ -1,0 +1,21 @@
+// Detail texture map file for tt_hill level
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+ouitz_rock2b detail/rock 10 10
+kl_fuxmuds6 detail/sand 10 10
+kl_fuxmuds4 detail/sand 10 10
+kl_fuxmuds1 detail/sand 10 10
+kl_fuxmuds5 detail/sand 10 10
+kl_grassroadc3c detail/sand 10 10
+kl_frenchy1 detail/brick 10 10
+kl_blah2b detail/rock 10 10
+kwc_crete8 detail/brick 10 10
+kwc_crete6 detail/brick 10 10
+kl_trenchwud2b detail/wood 10 10
+blending detail/sand 10 10
+wt_trench_01c detail/wood 10 10
+kl_trenchwud3 detail/wood 10 10
+kwc_trench2 detail/wood 10 10
+{kwc_duct detail/metal 10 10
+kl_wud3 detail/wood 10 10
+tnnl_w6 detail/metal 10 10

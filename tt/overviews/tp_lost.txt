@@ -1,0 +1,14 @@
+// overview description file for tp_lost.bsp by the_Leprechaun
+
+global
+{
+ZOOM  1.26
+ORIGIN  -173.44   -768.94  148
+ROTATED  0
+}
+
+layer
+{
+IMAGE  "overviews/tp_lost.bmp"
+HEIGHT  -465
+}
